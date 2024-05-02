@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d4b8c79.css",
+    "main.js": "/static/js/main.19f29a9e.js",
+    "static/js/453.64512fd7.chunk.js": "/static/js/453.64512fd7.chunk.js",
+    "static/media/Who_We_Are_Image_1.jpg": "/static/media/Who_We_Are_Image_1.dc9e2b5d5aad150db480.jpg",
+    "static/media/Who_We_Are_Image_2.jpg": "/static/media/Who_We_Are_Image_2.4d3bc53331c8ee993b24.jpg",
+    "static/media/Slider-Img-4.jpg": "/static/media/Slider-Img-4.d1d9cd395d544f92b4ef.jpg",
+    "static/media/About_Banner.png": "/static/media/About_Banner.2ddc00fdda0870c96ed0.png",
+    "static/media/Banner1.png": "/static/media/Banner1.79e3c49c2c2c63fda01b.png",
+    "static/media/Product_Bg_Image.jpg": "/static/media/Product_Bg_Image.894280c3fe144f35eed2.jpg",
+    "static/media/Slider-Img-8.jpg": "/static/media/Slider-Img-8.c8ee96215c22fc35095b.jpg",
+    "static/media/Slider-Img-7.jpg": "/static/media/Slider-Img-7.80886011733d9646120c.jpg",
+    "static/media/AboutUsVideo.mp4": "/static/media/AboutUsVideo.b2198b9d92f050de656e.mp4",
+    "static/media/Chunglu-Map.png": "/static/media/Chunglu-Map.1240db93fa6e810a57cf.png",
+    "static/media/Banner2.jpg": "/static/media/Banner2.a9e5136765e17194e52e.jpg",
+    "static/media/Banner3.jpg": "/static/media/Banner3.93d197cbdec4fae27aa2.jpg",
+    "static/media/AboutUs-Bg.jpg": "/static/media/AboutUs-Bg.c08ab06d4b85a51c3d45.jpg",
+    "static/media/under-construction.jpg": "/static/media/under-construction.499564b42abeb4f0decb.jpg",
+    "static/media/Slider-Img-2.jpg": "/static/media/Slider-Img-2.37127b079ee0849742bd.jpg",
+    "static/media/Slider-Img-1.jpg": "/static/media/Slider-Img-1.ff614b3b819f406ae41c.jpg",
+    "static/media/Slider-Img-6.jpg": "/static/media/Slider-Img-6.3d34fcd776814ab6384f.jpg",
+    "static/media/Slider-Img-3.jpg": "/static/media/Slider-Img-3.1b862b8767448b40795d.jpg",
+    "static/media/Slider-Img-9.jpg": "/static/media/Slider-Img-9.0e262580ed5826a7ad42.jpg",
+    "static/media/Slider-Img-5.jpg": "/static/media/Slider-Img-5.7ad33156ad5b1264ec1c.jpg",
+    "static/media/About_Chunglu_Img.jpg": "/static/media/About_Chunglu_Img.8c6e3c6065d273c22cb8.jpg",
+    "static/media/Logo.png": "/static/media/Logo.9888164cac8aa058e7b2.png",
+    "static/media/White_Logo.png": "/static/media/White_Logo.8e46ed0f459e910bd686.png",
+    "static/media/Our_Mission_Image.webp": "/static/media/Our_Mission_Image.aa5b32f99457d9ec2ac8.webp",
+    "static/media/Factory-Image-8.webp": "/static/media/Factory-Image-8.0ea92fa968c4544d99ff.webp",
+    "static/media/Our_Vision_Image.webp": "/static/media/Our_Vision_Image.6a20d001725ecc60d459.webp",
+    "static/media/Product_7.jpg": "/static/media/Product_7.2ed60fbb89a3859b9831.jpg",
+    "index.html": "/index.html",
+    "main.8d4b8c79.css.map": "/static/css/main.8d4b8c79.css.map",
+    "main.19f29a9e.js.map": "/static/js/main.19f29a9e.js.map",
+    "453.64512fd7.chunk.js.map": "/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d4b8c79.css",
+    "static/js/main.19f29a9e.js"
+  ]
+}

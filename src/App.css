@@ -1,0 +1,39 @@
+.page-item.disabled:first-child .MuiCard-root {
+  transform: scale(0.8); /* Adjust the scale as needed */
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 aspect ratio */
+}
+
+.video-container video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 550px;
+  object-fit: cover;
+}
+
+.heading-para-large {
+  /* display: none; */
+}
+
+.heading-para-inner {
+  background-color: rgba(255, 255, 255);
+  padding: 20px;
+}
+
+@media (min-width: 1150px) {
+  .heading-para-large {
+      display: block;
+      position: absolute;
+      top: calc(10% - 60px); /* Adjust this value according to your design */
+      right: 0;
+      transform: translateY(-50%);
+      z-index: 2;
+      max-width: 40%;
+  }
+}
